@@ -1,4 +1,4 @@
-# student_progress21000024 : Develop a web based Student Progress Report System
+# Develop a web based Student Progress Report System
 codeigniter project
 This project using PHP codeigniter framework
 codeigniter version 3.1.7
